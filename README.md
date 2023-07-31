@@ -22,10 +22,10 @@ notebook.ipynb
 ```
 
 
-## How it Works
+## Keep in mind
 
 1. Train the model using your own images and labels. Or download them from kaggle. 
 2. Keep the folder structure same as it is in this repo
 3. Use the correct file and folder paths. [Don't use the path given in this repo]
-4. The result images will be saved in the `runs/detect/predict` folder
+4. The result will be saved in the `runs/detect/predict` folder
 
